@@ -33,7 +33,7 @@
 1. Install tailwindcss
 
 ```
-    npm install -D tailwindcss
+    npm install -D tailwindcss@3.3.3
 ```
 
 2. Create tailwind config file
@@ -69,6 +69,9 @@ npm install daisyui@3.6.3
 npm install axios@1.5.0
 npm install react-hot-toast@2.4.1
 npm install @tailwindcss/line-clamp@0.4.4
+npm install -D postcss@8.4.28
+npm install -D autoprefixer@10.4.15
+npx tailwindcss init -p
 ```
 
 ### Configure auto import sort esline
