@@ -55,3 +55,18 @@
     @tailwind components;
     @tailwind utilities;
 ```
+
+### Adding plugins and dependencies
+
+```
+npm install @reduxjs/toolkit@1.9.5
+npm install react-redux@8.1.2
+npm install react-router-dom@6.15.0
+npm install react-icons@4.10.1
+npm install react-chartjs-2@5.2.0
+npm install chart.js@4.4.0
+npm install daisyui@3.6.3
+npm install axios@1.5.0
+npm install react-hot-toast@2.4.1
+npm install @tailwindcss/line-clamp@0.4.4
+```
